@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MenachoRBB
-- 👀 I’m interested in web and software developing
+- 👀 Student of web/app developing at URV
 - 📫 How to reach me: @MenachoRBB on twitter, @menacho.rbb on Instagram and ivan.menacho@estudiants.urv.cat
 - 🙋‍♂️ Open for collaborations
 
