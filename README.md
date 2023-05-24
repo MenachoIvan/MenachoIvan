@@ -2,7 +2,7 @@
 - Information Systems Technician at PortAventura World. 
 - Student of web/app development at the Rovira y Virgili University.
 - 👀 Interested at web and software developing, starting at cybersecurity
-- 📫 How to reach me: @MenachoRBB on twitter, @menacho.rbb on Instagram and ivan.menacho@estudiants.urv.cat
+- 📫 How to reach me: @menacho.rbb on Instagram and ivan.menacho@portaventura.es
 - 🙋‍♂️ Open for collaborations
 
 <!---
