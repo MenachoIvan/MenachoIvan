@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MenachoRBB 
-- Student of web/app development at the Rovira y Virgili University.
+- 📚 Student of web/app development at the Rovira y Virgili University.
 - 👀 Interested at web and software developing.
 - 📫 How to reach me: ivanmenachodominguez@gmail.com
 - 🙋‍♂️ Open for collaborations
