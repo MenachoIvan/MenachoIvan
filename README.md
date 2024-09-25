@@ -5,8 +5,12 @@
 - 🌱 Constantly learning and improving my skills
 - 🙋‍♂️ Open to **collaborations** and new opportunities
 - 📫 Feel free to reach me at: **[ivanmenachodominguez@gmail.com](mailto:ivanmenachodominguez@gmail.com)**
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/iván-menacho-domínguez-921429201)**
 
-Let's build something amazing together!
+---
+
+🚀 **Let's build something amazing together!**
+
 
 
 <!---
