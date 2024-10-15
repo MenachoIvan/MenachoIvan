@@ -14,7 +14,7 @@
 
 ```javascript
 const ivan = {
-    code: ["Javascript", "Python", "Swift", "Kotlin", "C#", "HTML", "CSS", "C", "PHP", "VisualBasic"],
+    code: ["Javascript", "Python", "Swift", "Kotlin", "C#", "HTML", "CSS", "C", "PHP", "VisualBasic", "SQL"],
     askMeAbout: ["web dev", "app dev", "software architecture"],
     currentFocus: "Expanding skills in fullstack development making some personal projects",
     contact: "ivanmenachodominguez@gmail.com"
