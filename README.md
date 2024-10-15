@@ -6,7 +6,8 @@
 [![Linkedin: ivánmenacho](https://img.shields.io/badge/-ivánmenacho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iván-menacho-domínguez-921429201/)](https://www.linkedin.com/in/iván-menacho-domínguez-921429201/)
 ![GitHub followers](https://img.shields.io/github/followers/MenachoRBB?label=Follow&style=social)
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150">
+
 
 ### A bit about me...  
 
