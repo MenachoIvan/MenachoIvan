@@ -4,6 +4,7 @@
 <p><em>Web/App Development Student at <a href="https://www.urv.cat/">Rovira i Virgili University</a></em></p>
 
 [![Linkedin: ivánmenacho](https://img.shields.io/badge/-ivánmenacho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iván-menacho-domínguez-921429201/)](https://www.linkedin.com/in/iván-menacho-domínguez-921429201/)
+[![Instagram: MenachoRBB](https://img.shields.io/badge/-@MenachoRBB-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/menacho.rbb/)](https://www.instagram.com/menacho.rbb/)
 ![GitHub followers](https://img.shields.io/github/followers/MenachoRBB?label=Follow&style=social)
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150">
