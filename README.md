@@ -23,9 +23,8 @@ const ivan = {
 
 ### My current projects
 
-- 💻 Working on a **Phasmophobia Timer Overlay** using C# and WPF.
-- 🎮 Developing a **Minecraft Agent Framework**.
-- 🌍 Exploring **fullstack development** and improving my skills in **React** and **Node.js**.
+- 💻 Working on a **Phasmophobia Timer Overlay** using C# and WPF and a new web page for [Wanted](https://wantedfansub.com/).
+- 🌍 Exploring **fullstack development** and improving my skills in **React**, **Vue** and **Node.js**.
 
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="60">
 
