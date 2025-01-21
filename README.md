@@ -1,7 +1,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Iván Menacho!</h2>
 <img align='right' src="/images/avatar.png" width="230" style="border-radius: 50%;">
-<p><em>Web/App Development Student at <a href="https://www.urv.cat/">Rovira i Virgili University</a></em></p>
+<p><em>Web/App Developer</em></p>
 
 [![Linkedin: ivánmenacho](https://img.shields.io/badge/-ivánmenacho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iván-menacho-domínguez-921429201/)](https://www.linkedin.com/in/iván-menacho-domínguez-921429201/)
 [![Instagram: MenachoRBB](https://img.shields.io/badge/-@MenachoRBB-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/menacho.rbb/)](https://www.instagram.com/menacho.rbb/)
