@@ -13,8 +13,8 @@
 ### A bit about me...  
 
 ```javascript
-const ivan = {
-    code: ["Javascript", "Python", "Swift", "Kotlin", "C#", "HTML", "CSS", "C", "PHP", "VisualBasic", "SQL"],
+const menachoIvan = {
+    code: ["Node", "React", "TypeScript", "Javascript", "Python", "Swift", "Kotlin", "HTML", "CSS", "C", "VisualBasic", "SQL"],
     askMeAbout: ["web dev", "app dev", "software architecture"],
     currentFocus: "Expanding skills in fullstack development making some personal projects",
     contact: "ivanmenachodominguez@gmail.com"
@@ -22,11 +22,7 @@ const ivan = {
 ```
 
 ### My current projects
-
-- 💻 Working on a **Phasmophobia Timer Overlay** using C# and WPF and a new web page for [Wanted](https://wantedfansub.com/).
-- 🌍 Exploring **fullstack development** and improving my skills in **React**, **Vue** and **Node.js**.
-
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="60">
+- 🌍 Exploring **fullstack development** and improving my skills in **Node.js**.
 
 ### What motivates me
 
